@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="live" tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/330px-NASA_logo.svg.png" group-title="Live TV",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-type="live" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png" group-title="Live TV",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-type="live" tvg-id="France24Arabic.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png" group-title="Live TV",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-type="live" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/330px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live TV",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/500px-Big_buck_bunny_poster_big.jpg" group-title="Open Movies",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/500px-Sintel_poster.jpg" group-title="Open Movies",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ElephantsDreamPoster.jpg/500px-ElephantsDreamPoster.jpg" group-title="Open Movies",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/500px-Tos-poster.png" group-title="Open Movies",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Open Series",Caminandes S01E01
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Open Series",Caminandes S01E02
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Open Series",Caminandes S01E03
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
